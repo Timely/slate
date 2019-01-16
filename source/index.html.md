@@ -5,6 +5,9 @@ language_tabs:
   - shell: cURL
 ---
 
+includes:
+  - authorization
+
 Use Timely API to integrate with your apps
 
 Timely API helps you integrate your application with Timely. Following are the list of API’s available. For any help or support email support@timelyapp.com
